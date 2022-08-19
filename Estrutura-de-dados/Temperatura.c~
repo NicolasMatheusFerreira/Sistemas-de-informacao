@@ -1,0 +1,45 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+float MaiorTemperatura(float x[], int y) {
+	
+	float maior = x[0];
+
+	y++;
+	while(y!=12-1) {
+		if (x[y]>maior)
+			maior = x[y];
+		y++;
+	}
+	return maior;
+}
+
+void Impressao(float x[], int y) {
+	
+	for(int i = 0; i<y; i++)
+		printf("Mes %d Temperatura registrada: %.1f\n", i+1, x[i]);
+}
+
+void Entrada(float x[], int y) {
+
+	int i = 0;
+	while(i<y) {
+		printf("Mes %d. Informe sua temperatura: ", i+1);
+		scanf("%f", &x[i++]);	
+	}
+}
+
+int main(void) {
+	
+	const int qtdTemperaturas = 12;
+	char meses[][101] = {"Janeiro", "Fevereiro", "Marco"};
+	printf("%s", meses[0]);
+
+	float temperaturas[qtdTemperaturas];
+
+	Entrada(temperaturas, qtdTemperaturas);
+	Impressao(temperaturas, qtdTemperaturas);
+	printf("%f", MaiorTemperatura(temperaturas, 0));
+
+	return 0;
+}
