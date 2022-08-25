@@ -1,6 +1,6 @@
 using System;
 
-class Questao1 {
+class Exercicio1v1 {
 
 	static int Potencia(int num, int expo) {
 		
