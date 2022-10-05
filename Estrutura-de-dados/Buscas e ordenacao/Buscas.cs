@@ -6,26 +6,7 @@ class Buscas {
 			Console.Write($"{Vetor[i]}, ");			
 		Console.WriteLine();		
 	}
-
-	// Ordenação
 	
-	static void SelectSort(int[] Vetor) {
-		
-		int menor, indice = 0, aux;
-
-		menor = Vetor[0];
-		for(int i = 0; i<Vetor.Length; i++) {			
-			for(int j = 0; j<Vetor.Length; j++) {
-				if (Vetor[j]<menor) {
-					menor = Vetor[j];
-					indice = j;
-				}
-			}
-			aux = Vetor[i];
-			Vetor[i] = Vetor[indice];
-			Vetor[indice] = aux;
-		}
-	}
 
 	static int BuscaSequencialRec(int alvo, int[] Vetor, int i) {
 	
