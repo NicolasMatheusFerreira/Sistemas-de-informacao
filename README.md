@@ -2,8 +2,8 @@
   
  ### Estrutura de dados
  - Recursividade 
- - Complexidade de algorÃ­timos
- - Buscas e ordenaÃ§Ãµes
+ - Complexidade de algorítimos
+ - Buscas e ordenações
 
 	- Buscas:
 		- Busca sequêncial
