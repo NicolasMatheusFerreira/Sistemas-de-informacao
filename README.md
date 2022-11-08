@@ -7,8 +7,8 @@
 
 	Buscas:
 
-	- Busca sequêncial
-	- Busca binária
+		- Busca sequêncial
+		- Busca binária
 
 	Ordenações:
 
