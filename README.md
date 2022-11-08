@@ -5,13 +5,11 @@
  - Complexidade de algorÃ­timos
  - Buscas e ordenaÃ§Ãµes
 
-	Buscas:
-
+	- Buscas:
 		- Busca sequêncial
 		- Busca binária
 
-	Ordenações:
-
+	- Ordenações:
 		- Bubble Sort
 		- Insertion Sort
 		- Selection Sort
@@ -20,7 +18,7 @@
 		- Coutting Sort
 		- Radix Sort
 	
-	Estrutura de dados
+ - Estrutura de dados
 
 	- Fila
 	- Pilha 
