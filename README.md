@@ -12,15 +12,15 @@
 
 	Ordenações:
 
-	- Bubble Sort
-	- Insertion Sort
-	- Selection Sort
-	- Merge Sort
-	- Quick Sort
-	- Coutting Sort
-	- Radix Sort
-
- - Estrutura de dados
+		- Bubble Sort
+		- Insertion Sort
+		- Selection Sort
+		- Merge Sort
+		- Quick Sort
+		- Coutting Sort
+		- Radix Sort
+	
+	Estrutura de dados
 
 	- Fila
 	- Pilha 
