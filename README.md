@@ -1,5 +1,9 @@
 # Sistemas-de-informacao
-  
+ 
+ ### Algorítimos e técnicas de programação
+ ### Introdução à computação
+ ### Arquitetura de computadores
+ ### Cálculo
  ### Estrutura de dados
  - Recursividade 
  - Complexidade de algorítimos
