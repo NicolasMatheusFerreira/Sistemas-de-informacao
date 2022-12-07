@@ -2,14 +2,14 @@
   
  ### Estrutura de dados
  - Recursividade 
- - Complexidade de algorítimos
- - Buscas e ordenações
+ - Complexidade de algorÃ­timos
+ - Buscas e ordenaÃ§Ãµes
 
 	- Buscas:
-		- Busca sequêncial
-		- Busca binária
+		- Busca sequÃªncial
+		- Busca binÃ¡ria
 
-	- Ordenações:
+	- OrdenaÃ§Ãµes:
 		- Bubble Sort
 		- Insertion Sort
 		- Selection Sort
@@ -18,10 +18,20 @@
 		- Coutting Sort
 		- Radix Sort
 	
- - Estrutura de dados
+ - Estrutura de dados estÃ¡ticas
 
-	- Fila
-	- Pilha 
-	- Lista
+	- Fila Simples
+	- Pilha Simples
+	- Lista Simples
+	
+- Estrutura de dados dinÃ¢micas
+
+	- Fila Encadeada
+	- Pilha Encadeada
+	- Lista Encadeada
+	
+- Ãrvores (BB) Busca binÃ¡ria
+- Ãrvores (AVL)
+- Hash
 	
  
