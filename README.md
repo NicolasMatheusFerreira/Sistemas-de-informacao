@@ -92,7 +92,6 @@
  - Recursividade 
  - Complexidade de algorítimos
  - Buscas e ordenações
-
 	- Buscas:
 		- Busca sequêncial
 		- Busca binária
@@ -105,27 +104,28 @@
 		- Quick Sort
 		- Coutting Sort
 		- Radix Sort
-	
- - Estrutura de dados estáticas
 
+ - Estrutura de dados estáticas:
 	- Fila Simples
 	- Pilha Simples
 	- Lista Simples
 	
-- Estrutura de dados dinâmicas
-
+ - Estrutura de dados dinâmicas:
 	- Fila Encadeada
 	- Pilha Encadeada
 	- Lista Encadeada
 	
-- Árvores (BB) Busca binária
-- Árvores (AVL)
-- Hash
+ - Árvores:
+	- Árvores (BB) Busca binária
+	- Árvores (AVL)
+ - Hash
 
- ### Introdução a Sistemas Inteligêntes
- ### Computadores e Sociedade
  ### Prog. Orientada a objetos
  ### Banco de dados
  ### Sistemas operacionais
+ ### Modelagem de Processos de Negócios
+ ### Ciências do ambiente
+ ### Introdução a Sistemas Inteligentes
+ ### Computadores e Sociedade
 	
  
