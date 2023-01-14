@@ -10,25 +10,27 @@
   - Estrutura condicional simples e operadores lógicos
   - Estrutura condicional composta e aninhada
   - Estrutura de repetição com teste no início
-  - Estrutura de repetição com teste no início
+  - Estrutura de repetição com teste no final
   - Arranjos. Vetores
   - Arranjos. Matriz bidimensional e tridimensional
   - Funções e procedimentos
   - Strings
+  - Tabela ASCII
   - Ponteiros e alocação dinâmica
   - Estruturas
   - Arquivos
 
  ### Introdução à computação
  - História da computação
- - Conversões de bases
+ - Fundamentos de computabilidade
  - Tabela verdade
  - Lógica de predicados
  - Pesquisa e iniciação científica
  - Áreas da computação: 
 	- Computação verde
 	- Robótica
-	- Redes
+	- Redes de computadores
+	 - Engenharia de software
 	- Inteligência artifícial
  	- Big Data
 	- Computação gráfica
@@ -39,6 +41,21 @@
 	- Computação ubiqua
 	- ...
  ### Desenv. Interfaces Web
+ - Criando páginas em HTML e CSS
+ - Tornando site responsivo
+ - Tornando site dinâmico com JS
+ - Publicando site
+
+ ### Filosofia: Razão da modernidade
+
+ - O que é filosofia
+ - O Mito e a passagem da vida
+ - A modernidade
+ - Pensamento de Descartes
+ - O projeto de humano da modernidade
+ - A modernidade
+ - A Pós-Modernidade como ideologia
+ - A educação moral hoje
 
  ### Fund. de Sistemas de Informação
  - Funções empresáriais
@@ -105,6 +122,8 @@
 - Árvores (AVL)
 - Hash
 
+ ### Introdução a Sistemas Inteligêntes
+ ### Computadores e Sociedade
  ### Prog. Orientada a objetos
  ### Banco de dados
  ### Sistemas operacionais
