@@ -124,8 +124,7 @@
  ### Banco de dados
  ### Sistemas operacionais
  ### Modelagem de Processos de Negócios
- ### Ciências do ambiente
  ### Introdução a Sistemas Inteligentes
  ### Computadores e Sociedade
-	
+### Gamificação e mercado para jogos	
  
