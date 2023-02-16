@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NqkuJtQtsNXEmh1Ah3NVD0I+jPrfNjNyeVx/9b67c7hqaaRihEpppMFskaffAOm6RvMxfOvD3PGLFd/xumFLCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\Documents\\Sistemas-de-informacao\\Programação Orientada a Objetos\\Polimorfismo\\Exemplo01\\Exemplo01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

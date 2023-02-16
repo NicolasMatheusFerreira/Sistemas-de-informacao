@@ -1,6 +1,7 @@
 # Sistemas-de-informacao
  
  ### Algorítimos e técnicas de programação
+
   - Definição de algorítimo
   - Comando de saída
   - Conceito de variáveis e constantes e atribuição
@@ -21,6 +22,7 @@
   - Arquivos
 
  ### Introdução à computação
+
  - História da computação
  - Fundamentos de computabilidade
  - Tabela verdade
@@ -41,6 +43,7 @@
 	- Computação ubiqua
 	- ...
  ### Desenv. Interfaces Web
+
  - Criando páginas em HTML e CSS
  - Tornando site responsivo
  - Tornando site dinâmico com JS
@@ -58,6 +61,7 @@
  - A educação moral hoje
 
  ### Fund. de Sistemas de Informação
+
  - Funções empresáriais
  - Tipos de organizações
  - Tipos de sistemas de informação
@@ -68,6 +72,7 @@
  - Desenvolvimento de S.I.
 
  ### Arquitetura de computadores
+
  - Estados lógicos e sua representação
  - Codificação da informação
  - História e evolução dos computadores
@@ -88,14 +93,14 @@
 
  ### Cálculo
 
- ### Estrutura de dados
+ ### Algorítimos e estrutura de dados
+
  - Recursividade 
  - Complexidade de algorítimos
  - Buscas e ordenações
 	- Buscas:
 		- Busca sequêncial
 		- Busca binária
-
 	- Ordenações:
 		- Bubble Sort
 		- Insertion Sort
@@ -118,13 +123,45 @@
  - Árvores:
 	- Árvores (BB) Busca binária
 	- Árvores (AVL)
+	- Balanceamento de árvores
  - Hash
 
- ### Prog. Orientada a objetos
+ ### (POO) Prog. Orientada a objetos
+ - Abstração
+	- Classes e objetos
+	- Construtores e destrutores
+	- Membros estáticos
+ - Encapsulamneto
+	- Atributos e métodos
+	- Visibilidade
+ - Herança
+	- Agregação, composição e herança
+	- Herança simples e herança múltipla
+ - Poliformismo
+	- Polimorfismo universal de inclusão
+	- Polimorfismo universal paramétrico
+	- Classes abstratas e classes seladas
+	- Sobrecarga e coersão
+ - Interface e Composição
+	- Implementação de interfaces
+	- Composição versus herança
+ - Tratamento de exceções
+	- Programação defensiva
+	- Tratamento de erros
+	- Barricadas
+	- Uso de exceções
+	- Criação e lançamentode exceções
+	- Propagação e tratamento de exceções
+
  ### Banco de dados
+ - Sistema de banco de dados
+ - Componentes de um SGBD
+ - Arquitetura de 3 níveis do SGBD
+ - Propriedades de um SGBD
+ - 
  ### Sistemas operacionais
  ### Modelagem de Processos de Negócios
  ### Introdução a Sistemas Inteligentes
  ### Computadores e Sociedade
-### Gamificação e mercado para jogos	
+ ### Gamificação e mercado para jogos	
  
