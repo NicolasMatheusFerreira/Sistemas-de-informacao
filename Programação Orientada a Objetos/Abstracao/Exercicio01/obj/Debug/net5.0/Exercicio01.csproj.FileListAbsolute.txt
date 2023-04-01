@@ -1,0 +1,16 @@
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\Exercicio01.AssemblyInfo.cs
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\nicol\desktop\Exercicio01\bin\Debug\net5.0\Exercicio01.exe
+C:\Users\nicol\desktop\Exercicio01\bin\Debug\net5.0\Exercicio01.deps.json
+C:\Users\nicol\desktop\Exercicio01\bin\Debug\net5.0\Exercicio01.runtimeconfig.json
+C:\Users\nicol\desktop\Exercicio01\bin\Debug\net5.0\Exercicio01.runtimeconfig.dev.json
+C:\Users\nicol\desktop\Exercicio01\bin\Debug\net5.0\Exercicio01.dll
+C:\Users\nicol\desktop\Exercicio01\bin\Debug\net5.0\Exercicio01.pdb
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\Exercicio01.dll
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\refint\Exercicio01.dll
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\Exercicio01.pdb
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\Exercicio01.genruntimeconfig.cache
+C:\Users\nicol\desktop\Exercicio01\obj\Debug\net5.0\ref\Exercicio01.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJydTSnEGLW3WjlKU+5vLwfGmb3nc+ihDqOItA5w5DFojVVNk7ab67/mgA3JZ8ac7fshxSBozFIWF78krW05QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\Desktop\\Programação Orientada a Objetos\\ClassesAbstratas\\ClassesAbstratas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

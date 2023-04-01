@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wgY1kTrlR9r6wcfqtzRWnB1FRCHcN9FEAJNohxeeY4W2HhrtlRd5AEcILYAF6aiJfppG3ZzajZVSEIomscQ1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\Desktop\\Abstracao\\Abstracao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
