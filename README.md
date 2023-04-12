@@ -1,17 +1,19 @@
-# Sistemas-de-informacao
+### Bacharelado
+# Sistemas-de-informacao 
+**Pontifícia Universidade Católica de Minas Gerais**
  
-| Período  | Disciplinas                         |
-| :---     |        ---:                         |
-| `1°`     |Algorítimos e técnicas de programação|
-|          |Introdução à computação              |
+| Período  | Disciplinas                         |                                               |
+| :---     |        :---:                        |       ---:                                    |
+| `1°`     |Algorítimos e técnicas de programação| `2°`     Fundamentos de Sistemas de Informação|
+|          |Introdução à computação              |          Arquitetura de computadores          |
 |          |Desenvolvimento de Interfaces Web    |
 |          |Filosofia: Razão da modernidade      |
-| `2°`     |Fundamentos de Sistemas de Informação|
-|          |Arquitetura de computadores          |
+
+
 |          |Cálculo I                            |
+|          |Arquitetura de computadores          |
 |          |Algorítimos e estrutura de dados     |
 | `3°`     |Programação Orientada a objetos    |
-|          |Arquitetura de computadores          |
 |          |Banco de dados                       |
 |          |Sistemas operacionais                |
 |          |Modelagem de Processos de Negócios   |
