@@ -1,23 +1,22 @@
-### Bacharelado
+### Bacharelado 
 # Sistemas-de-informacao 
-**Pontifícia Universidade Católica de Minas Gerais**
- 
-| Período  | Disciplinas                         |                                               |
-| :---     |        :---:                        |       ---:                                    |
-| `1°`     |Algorítimos e técnicas de programação| `2°`     Fundamentos de Sistemas de Informação|
-|          |Introdução à computação              |          Arquitetura de computadores          |
-|          |Desenvolvimento de Interfaces Web    |
-|          |Filosofia: Razão da modernidade      |
+ PUC Minas - **Pontifícia Universidade Católica de Minas Gerais**
+| Período  | Disciplinas                         | Período    | Disciplinas                              |
+| :---     |        :---:                        |:---:       | ---:                                     |
+| `1°`     |Algorítimos e técnicas de programação| `2°`       |     Fundamentos de Sistemas de Informação|
+| `1°`     |Introdução à computação              | `2°`       |     Arquitetura de computadores          |
+| `1°`     |Desenvolvimento de Interfaces Web    | `2°`       |     Cálculo I                            |
+| `1°`     |Filosofia: Razão da modernidade      | `2°`       |     Arquitetura de computadores          |
+|          |                                     | `2°`       |     Algorítimos e estrutura de dados     |
 
+| Período  | Disciplinas                         | Período    | Disciplinas                              |
+| :---     |        :---:                        |:---:       | ---:                                     |
+| `3°`     |Programação Orientada a objetos      | 
+| `3°`     |Banco de dados                       | 
+| `3°`     |Sistemas operacionais                | 
+| `3°`     |Modelagem de Processos de Negócios   | 
+| `3°`     |Gamificação e mercado para jogos	    | 
+| `3°`     |Trabalho Interdisciplinar	           | 
 
-|          |Cálculo I                            |
-|          |Arquitetura de computadores          |
-|          |Algorítimos e estrutura de dados     |
-| `3°`     |Programação Orientada a objetos    |
-|          |Banco de dados                       |
-|          |Sistemas operacionais                |
-|          |Modelagem de Processos de Negócios   |
-|          |Gamificação e mercado para jogos	    |
-|          |Modelagem de Processos de Negócios   |
-|          |Introdução a Sistemas Inteligentes   |
-|          |Computadores e Sociedade             |
+| `3°`     |Introdução a Sistemas Inteligentes   | 
+| `3°`     |Computadores e Sociedade             |    
