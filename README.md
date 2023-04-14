@@ -6,8 +6,8 @@
 | `1°`     |Algorítimos e técnicas de programação| `2°`       |     Fundamentos de Sistemas de Informação|
 | `1°`     |Introdução à computação              | `2°`       |     Arquitetura de computadores          |
 | `1°`     |Desenvolvimento de Interfaces Web    | `2°`       |     Cálculo I                            |
-| `1°`     |Filosofia: Razão da modernidade      | `2°`       |     Arquitetura de computadores          |
-|          |                                     | `2°`       |     Algorítimos e estrutura de dados     |
+| `1°`     |Filosofia: Razão da modernidade      | `2°`       |     Algorítimos e estrutura de dados     |
+|          |                                     | `2°`       |                                          |
 
 | Período  | Disciplinas                         | Período    | Disciplinas                              |
 | :---     |        :---:                        |:---:       | ---:                                     |
