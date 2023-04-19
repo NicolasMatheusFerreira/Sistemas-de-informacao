@@ -16,6 +16,6 @@
 | `3°`     |Sistemas operacionais                | 
 | `3°`     |Modelagem de Processos de Negócios   |
 | `3°`     |Estátistica e probabilidade          |
-| `3°`     |Trabalho Interdisciplinar	           | 
+| `3°`     |Trabalho Interdisciplinar 	          | 
 
-| `3°`     |Computadores e Sociedade             |    
+| `6°`     |Computadores e Sociedade             |    
