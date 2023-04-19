@@ -1,5 +1,5 @@
 ### Bacharelado - 2022
-# Sistemas-de-informacao | ICEI - Intituto de Ciências e exatas e Informática
+# Sistemas-de-Informacao | ICEI - Intituto de Ciências e exatas e Informática
  **PUC Minas** - Pontifícia Universidade Católica de Minas Gerais
 | Período  | Disciplinas                                  | Período    | Disciplinas                                |
 | :---     |        :---:                                 |:---:       | ---:                                       |
