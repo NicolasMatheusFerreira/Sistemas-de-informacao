@@ -7,7 +7,7 @@
 | `1°`     |Introdução à computação              | `2°`       |     Arquitetura de computadores          |
 | `1°`     |Desenvolvimento de Interfaces WEB    | `2°`       |     Cálculo I                            |
 | `1°`     |Filosofia: Razão da modernidade      | `2°`       |     Algorítimos e estrutura de dados     |
-|          |                                     | `2°`       |     Introdução a Sistemas Inteligentes   |
+| `1°`     |Trabalho Interdisciplinar            | `2°`       |     Introdução a Sistemas Inteligentes   |
 
 | Período  | Disciplinas                         | Período    | Disciplinas                              |
 | :---     |        :---:                        |:---:       | ---:                                     |
