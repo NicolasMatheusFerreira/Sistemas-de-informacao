@@ -1,0 +1,16 @@
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\Patos.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\Patos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\Patos.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\Patos.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\Patos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Patos\bin\Debug\net5.0\Patos.exe
+C:\Users\nicol\Desktop\Patos\bin\Debug\net5.0\Patos.deps.json
+C:\Users\nicol\Desktop\Patos\bin\Debug\net5.0\Patos.runtimeconfig.json
+C:\Users\nicol\Desktop\Patos\bin\Debug\net5.0\Patos.runtimeconfig.dev.json
+C:\Users\nicol\Desktop\Patos\bin\Debug\net5.0\Patos.dll
+C:\Users\nicol\Desktop\Patos\bin\Debug\net5.0\Patos.pdb
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\Patos.dll
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\refint\Patos.dll
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\Patos.pdb
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\Patos.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Patos\obj\Debug\net5.0\ref\Patos.dll

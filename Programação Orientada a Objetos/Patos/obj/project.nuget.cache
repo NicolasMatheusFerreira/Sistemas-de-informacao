@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWNMotRl/uZByL5b+ZFv3py2yF3flLFFnWSQEE1F9EZU6maTvrlSAe67IJZzSktXhAH3F0SVaYl8XAhlJTXbwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\Desktop\\Patos\\Patos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
