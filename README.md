@@ -11,12 +11,13 @@
 
 | Período  | Disciplinas                                  | Período    | Disciplinas                                |
 | :---     |        :---:                                 |:---:       | ---:                                       |
-| `3°`     |Programação Orientada a Objetos               | `4°`       |Gamificação e Mercado para jogos	          |
-| `3°`     |Banco de Dados                                | 
-| `3°`     |Sistemas Operacionais                         | 
-| `3°`     |Modelagem de Processos de Negócios            |
-| `3°`     |Estátistica e Probabilidade                   |
-| `3°`     |T. I.: Aplicações para Processos              | 
+| `3°`     |Programação Orientada a Objetos               | `4°`       |Teoria dos Grafos                           |
+| `3°`     |Banco de Dados                                | `4°`       |Redes de Computadores I                     |
+| `3°`     |Sistemas Operacionais                         | `4°`       |Engenharia de Requisitos de Software        |
+| `3°`     |Modelagem de Processos de Negócios            | `4°`       |Interação Humano x Computador               |
+| `3°`     |Estátistica e Probabilidade                   | `4°`       |Fundamentos de Geoprocessamento               |
+| `3°`     |T.I.: Aplicações para Processos               |
+| `3°`     |Gamificação e Mercado para jogos	            |
 
 | `7°`     |Cultura Religiosa e Fenômeno Religioso        |    
 | `8°`     |Computadores e Sociedade                      |    
