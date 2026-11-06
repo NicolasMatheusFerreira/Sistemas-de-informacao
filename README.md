@@ -1,6 +1,6 @@
 # Pontifícia Universidade Católica de Minas Gerais - PUC-MG
 ## Instituto de Ciências e exatas e Informática - ICEI
-## Bacharelado Sistemas-de-Informacao - Bsc. SI
+## Bacharelado Sistemas-de-Informação - Bsc. SI
 
 | Período  | Disciplinas                                | Período    | Disciplinas                                |
 | :---     |        :---:                               |:---:       |        :---:                               |
