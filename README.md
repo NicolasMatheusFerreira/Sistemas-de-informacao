@@ -1,4 +1,6 @@
-<img width="25%" height="3508" alt="image" src="https://github.com/user-attachments/assets/3e695ceb-c060-4051-8f22-2199796899d2" />
+<p align="center">
+  <img width="15%" alt="image" src="https://github.com/user-attachments/assets/3e695ceb-c060-4051-8f22-2199796899d2"/>
+</p>
 
 # Pontifícia Universidade Católica de Minas Gerais - PUC-MG
 ## Instituto de Ciências e exatas e Informática - ICEI
