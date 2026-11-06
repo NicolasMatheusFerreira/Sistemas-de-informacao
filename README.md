@@ -1,3 +1,5 @@
+<img width="25%" height="3508" alt="image" src="https://github.com/user-attachments/assets/3e695ceb-c060-4051-8f22-2199796899d2" />
+
 # Pontifícia Universidade Católica de Minas Gerais - PUC-MG
 ## Instituto de Ciências e exatas e Informática - ICEI
 ## Bacharelado Sistemas-de-Informação - Bsc. SI
