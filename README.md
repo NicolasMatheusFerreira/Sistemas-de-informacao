@@ -22,30 +22,30 @@
 | `3°`     |Modelagem de Processos de Negócios          | `4°`       |     Interação Humano-Computador            |
 | `3°`     |Programação Orientada por Objetos           | `4°`       |     Redes de Computadores I                |
 | `3°`     |Sistemas Operacionais                       |            |                                            |
-| `3°`     |Trabalho Interdisciplinar: Aplicações para Processos de Negócios |            |                       |
+| `3°`     |TI: Aplicações para Processos de Negócios |            |                       |
 
 | Período  | Disciplinas                                | Período    | Disciplinas                                |
 | :---     |        :---:                               |:---:       |        :---:                               |
 | `5°`     |Desenvolvimento de Aplicações Distribuídas  | `6°`       |     Business Intelligence                  |
 | `5°`     |Projeto de Software                         | `6°`       |     Desenvolvimento de Aplicações Móveis   |
 | `5°`     |Redes de Computadores II                    | `6°`       |     Gerência de Projeto de Software        |
-| `5°`     |Trabalho Interdisciplinar: Aplicações para Sustentabilidade | `6°` |     Teste e Manutenção de Software |
+| `5°`     |TI: Aplicações para Sustentabilidade        | `6°`       |     Teste e Manutenção de Software         |
 |          |                                            | `6°`       |     Tópicos em Sistemas de Informação      |
-|          |                                            | `6°`       |     Trabalho Interdisciplinar: Pesquisa em Informática |
+|          |                                            | `6°`       |     TI: Pesquisa em Informática            |
 
 | Período  | Disciplinas                                | Período    | Disciplinas                                |
 | :---     |        :---:                               |:---:       |        :---:                               |
 | `7°`     |Computadores e Sociedade                    | `8°`       |     Algoritmos em Grafos                   |
 | `7°`     |Leitura de Textos em Língua Inglesa         | `8°`       |     Ciência de Dados                       |
 | `7°`     |Recuperação de Informação na Web e Redes Sociais | `8°`  |     Cultura Religiosa: Pessoa e Sociedade  |
-| `7°`     |Tecnologias da Informação e do Conhecimento | `8°`       |     Planejamento de Capacidade e Avaliação de Sistemas Computacionais |
+| `7°`     |Tecnologias da Informação e do Conhecimento | `8°`       |     Avaliação de Sistemas Computacionais   |
 | `7°`     |Tópicos em Sistemas de Software             | `8°`       |     Segurança e Auditoria de Sistemas      |
-| `7°`     |Trabalho Interdisciplinar: Sistemas Integrados de Gestão Empresarial |  |                             |
+| `7°`     |TI: Sistemas Integrados de Gestão           |            |                                            |
 
 | Período  | Disciplinas                                | 
 | :---     |        :---:                               |
 | `9°`     |Gamificação e Mercado de Jogos              |
 | `9°`     |Filosofia: Antropologia e Ética             |
-| `9°`     |Fundamentos de Projeto e Análise de Algoritmos |
+| `9°`     |Projeto e Análise de Algoritmos             |
 | `9°`     |Governança de Tecnologia da Informação      |
 | `9°`     |Trabalho de Conclusão de Curso              |
