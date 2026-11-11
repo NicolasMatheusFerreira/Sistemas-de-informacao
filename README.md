@@ -19,7 +19,7 @@
 | `1°`     |Filosofia: Razão e Modernidade              | `2°`       |     Cálculo I                              |
 | `1°`     |Introdução à Computação                     | `2°`       |     Cultura Religiosa: Fenômeno Religioso  |
 | `1°`     |Trabalho Interdisciplinar: Aplicações WEB   | `2°`       |     Fundamentos de Sistemas de Informação  |
-|          |                                            | `2°`       |     Optativa I                             |
+|          |                                            | `2°`       |     Introdução a Sistemas Inteligêntes     |
 
 | Período  | Disciplinas                                | Período    | Disciplinas                                |
 | :---     |        :---:                               |:---:       |        :---:                               |
