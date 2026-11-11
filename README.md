@@ -27,8 +27,8 @@
 | `3°`     |Estatística e Probabilidade                 | `4°`       |     Algoritmos em Grafos                   |
 | `3°`     |Modelagem de Processos de Negócios          | `4°`       |     Interação Humano-Computador            |
 | `3°`     |Programação Orientada por Objetos           | `4°`       |     Redes de Computadores I                |
-| `3°`     |Sistemas Operacionais                       |            |     Fundamentos de Geoprocessamento        |
-| `3°`     |TI: Aplicações para Processos de Negócios   |            |                                            |
+| `3°`     |Sistemas Operacionais                       | `4°`       |     Fundamentos de Geoprocessamento        |
+| `3°`     |TI: Aplicações para Processos de Negócios   | `4°`       |                                            |
 
 | Período  | Disciplinas                                | Período    | Disciplinas                                |
 | :---     |        :---:                               |:---:       |        :---:                               |
@@ -36,8 +36,8 @@
 | `5°`     |Projeto de Software                         | `6°`       |     Desenvolvimento de Aplicações Móveis   |
 | `5°`     |Redes de Computadores II                    | `6°`       |     Gerência de Projeto de Software        |
 | `5°`     |Projeto e Análise de Algoritmos             | `6°`       |     Teste e Manutenção de Software         |
-|          |TI: Aplicações para Sustentabilidade        | `6°`       |     Tópicos em Sistemas de Informação      |
-|          |                                            | `6°`       |     TI: Pesquisa em Informática            |
+| `5°`     |TI: Aplicações para Sustentabilidade        | `6°`       |     Tópicos em Sistemas de Informação      |
+| `5°`     |                                            | `6°`       |     TI: Pesquisa em Informática            |
 
 | Período  | Disciplinas                                | Período    | Disciplinas                                |
 | :---     |        :---:                               |:---:       |        :---:                               |
@@ -52,6 +52,5 @@
 | :---     |        :---:                               |
 | `9°`     |Gamificação e Mercado de Jogos              |
 | `9°`     |Filosofia: Antropologia e Ética             |
-| `9°`     |             |
 | `9°`     |Governança de Tecnologia da Informação      |
 | `9°`     |Trabalho de Conclusão de Curso              |
