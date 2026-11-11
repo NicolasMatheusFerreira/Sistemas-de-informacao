@@ -24,10 +24,10 @@
 | Período  | Disciplinas                                | Período    | Disciplinas                                |
 | :---     |        :---:                               |:---:       |        :---:                               |
 | `3°`     |Bancos de Dados                             | `4°`       |     Engenharia de Requisitos de Software   |
-| `3°`     |Estatística e Probabilidade                 | `4°`       |     Fundamentos de Geoprocessamento        |
+| `3°`     |Estatística e Probabilidade                 | `4°`       |     Algoritmos em Grafos                   |
 | `3°`     |Modelagem de Processos de Negócios          | `4°`       |     Interação Humano-Computador            |
 | `3°`     |Programação Orientada por Objetos           | `4°`       |     Redes de Computadores I                |
-| `3°`     |Sistemas Operacionais                       |            |     Algoritmos em Grafos                   |
+| `3°`     |Sistemas Operacionais                       |            |     Fundamentos de Geoprocessamento        |
 | `3°`     |TI: Aplicações para Processos de Negócios   |            |                                            |
 
 | Período  | Disciplinas                                | Período    | Disciplinas                                |
